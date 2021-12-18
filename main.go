@@ -74,7 +74,7 @@ func main() {
 			return
 		}
 	}
-	var i, j int
+	var i int
    	for i = 2; i < 100; i++ {
          	i--
         }
